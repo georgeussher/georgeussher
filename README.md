@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am enrolled onto the School of Code Bootcamp.
+Soon to be Full-stack developer!
+he/him
+
+
 <!--
 **georgeussher/georgeussher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
