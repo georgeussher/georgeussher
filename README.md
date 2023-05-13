@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-I am enrolled onto the School of Code Bootcamp.
-Soon to be Full-stack developer!
-he/him
+My name is George and I am a full-stack developer in-training. Welcome to my GitHub profile! Here you will find some projects that I have completed whilst training at School of Code and some other personal projects.
+
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=georgeussher)
