@@ -5,6 +5,8 @@ Soon to be Full-stack developer!
 he/him
 
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=georgeussher)
+
 <!--
 **georgeussher/georgeussher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
