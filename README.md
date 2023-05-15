@@ -6,7 +6,7 @@ My name is George and I am a full-stack developer in-training. Welcome to my Git
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=georgeussher)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=georgeussher)
+
 
 <!--
 **georgeussher/georgeussher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
