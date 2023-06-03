@@ -7,9 +7,7 @@ My name is George and I am a full-stack developer in-training. Welcome to my Git
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=georgeussher)
 
 ![icons8-linkedin-48](https://github.com/georgeussher/georgeussher/assets/123481743/7536ea2c-9eac-4bca-aa6b-7e4b9abccf16)
-[1]: http://www.github.com/your_contact_info
-[2]: https://www.linkedin.com/in/your_contact_info
-[3]: https://www.facebook.com/your_contact_info
+
 
 <!--
 **georgeussher/georgeussher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
