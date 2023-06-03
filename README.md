@@ -1,8 +1,8 @@
 ### Hi there 👋
 <p align="center">
   
-My name is George and I am a full-stack developer in-training. Welcome to my GitHub profile! Here you will find some projects that I have completed whilst training at School of Code and some other personal projects.
-
+<h1>My name is George and I am a full-stack developer in-training. Welcome to my GitHub profile! Here you will find some projects that I have completed whilst training at School of Code and some other personal projects.
+</h1>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=georgeussher&theme=transparent&border_radius=30)](https://git.io/streak-stats)
