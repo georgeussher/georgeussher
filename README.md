@@ -11,7 +11,7 @@ My name is George and I am a full-stack developer in-training. Welcome to my Git
 
 
 ![icons8-linkedin-48]
-
+d
 
 <!--
 **georgeussher/georgeussher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
