@@ -6,10 +6,7 @@ My name is George and I am a full-stack developer in-training. Welcome to my Git
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=georgeussher)
 
-
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
-blog is website definition in read file, just a place holder for all the urls that I have used.
-[blog]: https://eresh-zealous.medium.com/
+![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
 
 <!--
 **georgeussher/georgeussher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
