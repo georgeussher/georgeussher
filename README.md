@@ -6,6 +6,8 @@ My name is George and I am a full-stack developer in-training. Welcome to my Git
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=georgeussher)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgeussher)](https://github.com/georgeussher/github-readme-stats)
+
 ![My Skills](https://skillicons.dev/icons?i=git,javascript,html,css,react,nodejs,typescript,figma)
 
 <!--
