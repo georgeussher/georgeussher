@@ -7,7 +7,7 @@ My name is George and I am a full-stack developer in-training. Welcome to my Git
 
 
 
-![My Skills](https://skillicons.dev/icons?i=git,javascript,html,css,react,nodejs,typescript,figma)
+![My Skills](https://skillicons.dev/icons?i=git,javascript,html,css,react,nodejs,typescript,figma,C#)
 
 
 
